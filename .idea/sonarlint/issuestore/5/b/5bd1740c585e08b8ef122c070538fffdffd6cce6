@@ -1,0 +1,24 @@
+
+j
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¸îæàıÿÿÿÿ8ñÓÛà/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Öä–ıÿÿÿÿ
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê”¿Šùÿÿÿÿ8óÓÛà/
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ûæùæ8ôÓÛà/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8ôÓÛà/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ğ•˜™ÿÿÿÿÿ8÷ÓÛà/
+L
+java:S6212"/Declare this local variable with "var" instead.(”¡éÂ8÷ÓÛà/
+Q
+java:S6212"/Declare this local variable with "var" instead.(‰‚—şıÿÿÿÿ8÷ÓÛà/
+6
+java:S2178"Correct this "&" to "&&".(ÌşÆ˜8÷ÓÛà/
+6
+java:S2178"Correct this "&" to "&&".(ÌşÆ˜8÷ÓÛà/
+L
+java:S6212"/Declare this local variable with "var" instead.(¦ç›8øÓÛà/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†ğ±­8øÓÛà/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8øÓÛà/

@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥‘é´úÿÿÿÿ8š··ÄŞ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÕĞÑ8Š¯¸ÄŞ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8··ÄŞ/
+Q
+java:S6212"/Declare this local variable with "var" instead.(€«Ú…üÿÿÿÿ8 ··ÄŞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğª€Üùÿÿÿÿ8 ··ÄŞ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“ ì8¡··ÄŞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ØÒº…üÿÿÿÿ8¡··ÄŞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â Úúÿÿÿÿ8¡··ÄŞ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²¿éşÿÿÿÿ8¡··ÄŞ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Áªªóøÿÿÿÿ8¡··ÄŞ/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(é‡ß8¡··ÄŞ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(£–ğºüÿÿÿÿ8¡··ÄŞ/
